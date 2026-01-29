@@ -101,4 +101,4 @@ This task was completed as part of **CODTECH Internship – Task 4**, focusing o
 
 ## 📸 Output
 
-
+<img width="1919" height="869" alt="Image" src="https://github.com/user-attachments/assets/0a2da4c2-81b4-4cae-9e12-90cfd75df8b8" />
